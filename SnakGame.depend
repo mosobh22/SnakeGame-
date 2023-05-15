@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660890774 source:d:\c_projects\snakgame\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<vector>
+
